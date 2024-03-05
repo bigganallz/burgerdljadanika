@@ -1,0 +1,176 @@
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Bigmac
+bulki - grilled
+kotleta - double beef
+sauce - special
+cheese - true
+green - salatWould you like to get a drink? 0=no, 1=yes 
+Price is 2
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Bigmac
+bulki - grilled
+kotleta - double beef
+sauce - special
+cheese - true
+green - salatWould you like to get a drink? 0=no, 1=yes 
+Price is 2
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Bigmac
+bulki - grilled
+kotleta - double beef
+sauce - special
+cheese - true
+green - salat Would you like to get a drink? 0=no, 1=yes 
+drink price is 1Burger price is 
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Bigmac
+bulki - grilled
+kotleta - double beef
+sauce - special
+cheese - true
+green - salat Would you like to get a drink? 0=no, 1=yes 
+drink price is 0
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Bigmac
+bulki - grilled
+kotleta - double beef
+sauce - special
+cheese - true
+green - salat Would you like to get a drink? 0=no, 1=yes 
+drink price is 0
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Hamburger
+bulki - grilled
+kotleta - beef
+sauce - ketchup
+green - pickles
+drink Would you like to get a drink? 0=no, 1=yes 
+drink price is 0
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Cheesegurger
+bulki - grilled
+kotleta - beef
+sauce - ketchup
+cheese - true
+price - 2.0 Would you like to get a drink? 0=no, 1=yes 
+Drink price is 1 Burger price is 
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Hamburger
+bulki - grilled
+kotleta - beef
+sauce - ketchup
+green - pickles
+drink
+price1.0
+ Would you like to get a drink? 0=no, 1=yes 
+Drink price is 1 Burger price is 
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Hamburger
+bulki - grilled
+kotleta - beef
+sauce - ketchup
+green - pickles
+price1.0
+ Would you like to get a drink? 0=no, 1=yes 
+Drink price is 1 Burger price is 
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Bigmac
+bulki - grilled
+kotleta - double beef
+sauce - special
+cheese - true
+green - salat
+price3.0 Would you like to get a drink? 0=no, 1=yes 
+Drink price is 0
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Hamburger
+bulki - grilled
+kotleta - beef
+sauce - ketchup
+green - pickles
+price1.0
+ Would you like to get a drink? 0=no, 1=yes 
+Drink price is 1
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, please wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Bigmac
+bulki - grilled
+kotleta - double beef
+sauce - special
+cheese - true
+green - salat
+price3.0
+ Would you like to get a drink? 0=no, 1=yes 
+Drink price is 1
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, please wait for your order!
+Choose burger type! 
+1 - Hamburger
+2 - Cheeseburger
+3 - Bigmac
+Chosen burger - Cheesegurger
+bulki - grilled
+kotleta - beef
+sauce - ketchup
+cheese - true
+price - 2.0 Would you like to get a drink? 0=no, 1=yes 
+Drink price is 1
+Accept your order, press 1 - agree, press 2 - decline
+Thank you, please wait for your order!
